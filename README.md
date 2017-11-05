@@ -1,2 +1,1 @@
-# operating-system-I
 # algorithm
